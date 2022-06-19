@@ -1,0 +1,40 @@
+.navbar-brand img .logo {
+    max-width: 19px;
+}
+.carousell {
+    position: relative;
+    right: 20px;
+    left: 50px;
+    bottom: 300px;
+}
+
+.card {
+    padding-left: 75px;
+    padding-top: 25px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    right: 10px;
+    top: 10px;
+    bottom: 100px;
+}
+.posisi {
+    position: relative;
+    left: 100x;
+    top: 50px;
+    margin-left: 100px;
+}
+.tabel {
+    left: 100px;
+}
+img {
+    width: 75%;
+    height: 75%;
+}
+.main-search {
+    top: 5em;
+}
+.card-img-top {
+    position: relative;
+    left: 100x;
+    top: 50px;
+}
